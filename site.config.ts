@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Front-end developer',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Serba Anna',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Подготовка к собеседованию на front-end разработчика',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
